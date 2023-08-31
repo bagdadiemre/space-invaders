@@ -1,6 +1,6 @@
 # Space Invaders Game
 
-Welcome to the Space Invaders game project! This is a classic arcade-style game implemented using HTML, CSS, and JavaScript. The objective of this project is to create an interactive and enjoyable gaming experience following the guidelines provided.
+Welcome to the Space Invaders game project! This is a classic arcade-style game implemented using HTML and JavaScript. The objective of this project is to create an interactive and enjoyable gaming experience following the guidelines provided.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ Simply open the provided link in a web browser to start playing the game.
 2. Use the following controls to play the game:
    - On desktop browsers: Use the keyboard's left and right arrow keys to move the player, and the **"X"** to fire bullets.
 3. Your goal is to shoot down the invading aliens before they reach the bottom of the screen or shoot you.
-4. You can pause the game at any time by pressing the "P" on the keyboard. This will bring up an overlay menu with options to "Continue Game" or "Exit Game."
+4. You can pause the game at any time by pressing the **"P"** on the keyboard. This will bring up an overlay menu with options to "Continue Game" or "Exit Game."
 
 ## Gameplay Rules
 
