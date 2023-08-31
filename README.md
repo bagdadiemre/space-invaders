@@ -1,16 +1,12 @@
-Sure, here's a README file for your Space Invaders game project:
-
 # Space Invaders Game
 
 Welcome to the Space Invaders game project! This is a classic arcade-style game implemented using HTML, CSS, and JavaScript. The objective of this project is to create an interactive and enjoyable gaming experience following the guidelines provided.
 
 ## Getting Started
 
-To play the game, you can access it through a web browser using the hosted link. Here are a few options for hosting the game files:
+To play the game, you can access it through a web browser using the hosted link. 
 
-- Netlify: [Hosted Example](https://symphonious-malabi-a68066.netlify.app/space-invadersgame.html)
-- GitHub Pages
-- Tiiny Host: [Hosted Example](https://mygamee.tiiny.site/)
+- https://bagdadiemre.github.io/space-invaders/
 
 Simply open the provided link in a web browser to start playing the game.
 
@@ -18,10 +14,9 @@ Simply open the provided link in a web browser to start playing the game.
 
 1. Upon accessing the game, you'll be greeted with a home screen. Click the "Start Game" button to begin playing.
 2. Use the following controls to play the game:
-   - On desktop browsers: Use the keyboard's left and right arrow keys to move the player, and the space bar to fire bullets.
-   - On mobile and tablet browsers: The on-screen controls at the bottom of the screen can be used to move left, right, and fire bullets.
+   - On desktop browsers: Use the keyboard's left and right arrow keys to move the player, and the **"X"** to fire bullets.
 3. Your goal is to shoot down the invading aliens before they reach the bottom of the screen or shoot you.
-4. You can pause the game at any time by clicking the "Pause" button on the top right corner of the game screen. This will bring up an overlay menu with options to "Continue Game" or "Exit Game."
+4. You can pause the game at any time by pressing the "P" on the keyboard. This will bring up an overlay menu with options to "Continue Game" or "Exit Game."
 
 ## Gameplay Rules
 
@@ -47,28 +42,14 @@ Sound effects are integrated into the game for a more immersive experience. Soun
 - The player shoots
 - An invader/player is killed
 
-## Responsive Design
-
-The game container, player, and invaders are designed to be responsive to the screen size, providing an optimal experience on different devices.
-
 ## Technologies Used
 
-- HTML, CSS, JavaScript
-- You can use TypeScript, React.js, or any other framework or library integrated with JavaScript for this project.
+- HTML, JavaScript
 
 ## Credits
 
-- Game resources, icons, and sounds can be found in the provided resources and materials.
 - The game is inspired by the classic Space Invaders arcade game.
-
-## Authors
-
-[Your Name]
-
-## License
-
-This project is licensed under [MIT License](LICENSE).
 
 ---
 
-Enjoy playing Space Invaders and have fun defending Earth from the invading aliens! If you have any questions or feedback, feel free to reach out to the authors.
+Enjoy playing Space Invaders and have fun defending Earth from the invading aliens! If you have any questions or feedback, feel free to reach out to me.
